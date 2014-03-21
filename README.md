@@ -1,4 +1,4 @@
-algoriths.js
+algorithms.js
 ============
 
 MinHeap-PQ Dijsktra and Bellman-Ford javascript implementations.
